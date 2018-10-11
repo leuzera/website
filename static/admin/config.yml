@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: leuzera/leuzera.github.io # Path to your GitHub repository
+  name: git-gateway
   branch: master
 
 publish_mode: editorial_workflow
