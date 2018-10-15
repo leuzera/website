@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: leuzera/leuzera.github.io
+  repo: leuzera/website
   branch: master
   site_domain: amazing-clarke-936762.netlify.com
 
