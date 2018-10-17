@@ -3,8 +3,8 @@ backend:
   accept_roles:
     - admin
     - writer
-  repo: leuzera/website
-  branch: master
+  # repo: leuzera/website
+  # branch: master
   site_domain: amazing-clarke-936762.netlify.com
 
 publish_mode: editorial_workflow
