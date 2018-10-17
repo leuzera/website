@@ -2,8 +2,7 @@ backend:
   name: github
   repo: leuzera/website
   branch: master
-  site_domain: cms.netlify.com
-  base_url: https://api.netlify.com
+  site_domain: amazing-clarke-936762.netlify.com
 
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
