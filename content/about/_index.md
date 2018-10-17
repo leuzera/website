@@ -1,7 +1,6 @@
 ---
 title: "About"
-date: 2018-10-17T14:39:31-03:00
-draft: false
+featured_image: "/images/gus-moretta-326234-unsplash.jpg"
 ---
 
 In this page I talk about myself.
