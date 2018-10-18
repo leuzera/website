@@ -1,7 +1,7 @@
 title = "My Personal Site"
 baseURL = "http://leuzera.github.io/"
 languageCode = "en-us"
-theme = "ananke"
+theme = "yegor"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"

@@ -1,0 +1,4 @@
++++
+tittle = "{{ tittle }}"
+date = {{ .Date }}
++++

@@ -1,0 +1,18 @@
+<header>
+    <div class="face">
+        <a href="/">
+            <img class="photo" src="#" alt="my face">
+        </a>
+    </div>
+    <nav>
+        {{ $currentPage := .}}
+        {{ range .Site.Menus.main }}
+            <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+        {{ end }}
+    </nav>
+    <div class="search">
+        <form action="#" method="get">
+            <input type="search" name="search" id="search">
+        </form>
+    </div>
+</header>
