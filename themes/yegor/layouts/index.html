@@ -1,5 +1,7 @@
 {{ define "main" }}
     {{ range first 10 .Pages}}
-        {{ .Render "tittle"}}
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Summary }}</p>
+        <a href="{{ .RelPermalink }}">Leia mais...</a>
     {{ end }}
 {{ end }}
