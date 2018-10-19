@@ -5,7 +5,10 @@
     <meta name="viewport" content="width=device-width,minimum-scale=1">
 
     <title>{{- .Site.Title -}}</title>
-        
+    
+    <link rel="stylesheet" href='{{ "css/normalize.css" | relURL}}'>
+    <link rel="stylesheet" href='{{ "css/master.css" | relURL}}'>
+
     {{- template "_internal/opengraph.html" . -}}
     {{- template "_internal/google_news.html" . -}}
     {{- template "_internal/schema.html" . -}}

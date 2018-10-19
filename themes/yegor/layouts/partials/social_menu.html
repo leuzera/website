@@ -1,0 +1,78 @@
+<nav class="social-menu">
+    {{ $icon_size := "32px"}}
+    {{ with .Param "behance" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/behance.svg" | relURL}}' alt="Behance" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "deviantart" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/deviantart.svg" | relURL}}' alt="DeviantArt" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "dribbble" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/dribbble.svg" | relURL}}' alt="Dribbble" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "facebook" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/facebook.svg" | relURL}}' alt="Facebook" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "flicker" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/flicker.svg" | relURL}}' alt="Flicker" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "googleplus" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/googleplus.svg" | relURL}}' alt="Google Plus" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "instagram" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/instagram.svg" | relURL}}' alt="Instagram" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "linkedin" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/linkedin.svg" | relURL}}' alt="LinkedIn" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "pinterest" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/pinterest.svg" | relURL}}' alt="Pinterest" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "skype" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/skype.svg" | relURL}}' alt="Skype" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "soundcloud" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/soundcloud.svg" | relURL}}' alt="Soundcloud" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "twitter" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/twitter.svg" | relURL}}' alt="Twitter" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "tumblr" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/tumblr.svg" | relURL}}' alt="Tumblr" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "vimeo" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/vimeo.svg" | relURL}}' alt="Vimeo" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+    {{ with .Param "youtube" }}
+        <a href="{{ . }}">
+            <img src='{{ "icons/youtube.svg" | relURL}}' alt="YouTube" width="{{ $icon_size }}">
+        </a>
+    {{ end }}
+</nav>

@@ -1,7 +1,10 @@
 {{ define "main" }}
-    {{ range first 10 .Pages}}
-        <h3>{{ .Title }}</h3>
-        <p>{{ .Summary }}</p>
-        <a href="{{ .RelPermalink }}">Leia mais...</a>
-    {{ end }}
+    <section>
+        
+    </section>
+    <section>
+        {{ range first 5 .Pages}}
+            {{ partial "post_card.html" . }}
+        {{ end }}
+    </section>
 {{ end }}

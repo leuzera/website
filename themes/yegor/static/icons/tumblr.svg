@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 82 82"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="tumblr.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="2.8780488"
+     inkscape:cx="41"
+     inkscape:cy="41"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title6">Tumblr</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     style="fill:#000000">
+    <g
+       id="Icons"
+       style="fill:#000000">
+      <path
+         class="cls-1"
+         d="M41,82A41,41,0,1,1,82,41,41,41,0,0,1,41,82ZM41,2A39,39,0,1,0,80,41,39,39,0,0,0,41,2Z"
+         id="path8"
+         style="fill:#000000" />
+      <path
+         class="cls-1"
+         d="M41.28,23v9.1h8.54v5.65H41.28V47a14.58,14.58,0,0,0,.33,4,2.71,2.71,0,0,0,1.24,1.42,5.17,5.17,0,0,0,2.73.72A9.85,9.85,0,0,0,51,51.36V57a21.7,21.7,0,0,1-4.18,1.52,17.58,17.58,0,0,1-4,.44,14,14,0,0,1-4.36-.62A9.39,9.39,0,0,1,35.2,56.6a6.44,6.44,0,0,1-1.86-2.46,10.61,10.61,0,0,1-.52-3.77V37.75h-4V32.66a10.63,10.63,0,0,0,3.64-2,9.88,9.88,0,0,0,2.43-3.09A13.89,13.89,0,0,0,36.17,23Z"
+         id="path10"
+         style="fill:#000000" />
+    </g>
+  </g>
+</svg>

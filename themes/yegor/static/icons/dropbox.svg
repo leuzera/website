@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 82 82"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="dropbox.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="2.8780488"
+     inkscape:cx="41"
+     inkscape:cy="41"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg22" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title6">Dropbox</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     style="fill:#000000">
+    <g
+       id="Icons"
+       style="fill:#000000">
+      <path
+         class="cls-1"
+         d="M41,82A41,41,0,1,1,82,41,41,41,0,0,1,41,82ZM41,2A39,39,0,1,0,80,41,39,39,0,0,0,41,2Z"
+         id="path8"
+         style="fill:#000000" />
+      <polygon
+         class="cls-1"
+         points="23 42.9 33.59 49.81 41 43.63 30.32 37.04 23 42.9"
+         id="polygon10"
+         style="fill:#000000" />
+      <polygon
+         class="cls-1"
+         points="33.59 24.27 23 31.17 30.32 37.04 41 30.45 33.59 24.27"
+         id="polygon12"
+         style="fill:#000000" />
+      <polygon
+         class="cls-1"
+         points="59 31.17 48.41 24.27 41 30.45 51.68 37.04 59 31.17"
+         id="polygon14"
+         style="fill:#000000" />
+      <polygon
+         class="cls-1"
+         points="41 43.63 48.41 49.81 59 42.9 51.68 37.04 41 43.63"
+         id="polygon16"
+         style="fill:#000000" />
+      <polygon
+         class="cls-1"
+         points="41.02 44.96 33.59 51.12 30.41 49.05 30.41 51.37 41.02 57.73 51.63 51.37 51.63 49.05 48.45 51.12 41.02 44.96"
+         id="polygon18"
+         style="fill:#000000" />
+    </g>
+  </g>
+</svg>
