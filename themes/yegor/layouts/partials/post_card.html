@@ -7,5 +7,7 @@
         <li>{{ if le $timeToRead 1}}less than a minute{{ else }}{{ $timeToRead }} minutes{{ end }} to read</li>
     </ul>
     <p class="summary">{{ .Summary }}</p>
-    <a href="{{ .RelPermalink }}">Read more...</a>
+    {{ if .Truncated }}
+        <a href="{{ .RelPermalink }}">Read more...</a>
+    {{ end }}
 </article>
