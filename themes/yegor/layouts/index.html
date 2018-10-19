@@ -1,8 +1,8 @@
 {{ define "main" }}
-    <section>
-        
+    <section class="resume" >
+        {{ .Content }}
     </section>
-    <section>
+    <section class="blog">
         {{ range first 5 .Pages}}
             {{ partial "post_card.html" . }}
         {{ end }}

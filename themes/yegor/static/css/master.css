@@ -42,6 +42,10 @@ blockquote {
     margin: 20px;
 }
 
+.resume, .blog {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
 .post-card {
     margin-bottom: 40px;
 }
