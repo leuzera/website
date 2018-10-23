@@ -1,7 +1,7 @@
 ---
-title: "A Realy Long Post"
-date: 2018-10-19T10:29:40-03:00
-draft: true
+title: A Realy Long Post
+date: 2018-10-19T13:29:40.000Z
+draft: false
 ---
 
 
