@@ -1,13 +1,13 @@
 {{ $timeToRead := math.Round (div .WordCount 200.0) }}
 <article class="post-card">
-    <h2>{{ .Title }}</h3>
+    <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
     <ul class="subline">
         <li>{{ .Date.Format "Jan 02, 2006" }}</li>
         <li>{{ .WordCount }}{{ if le .WordCount 1}} word{{ else }} words{{ end }}</li>
         <li>{{ if le $timeToRead 1}}less than a minute{{ else }}{{ $timeToRead }} minutes{{ end }} to read</li>
     </ul>
-    <p class="summary">{{ .Summary }}</p>
+    <p class="card-summary">{{ .Summary }}</p>
     {{ if .Truncated }}
-        <a href="{{ .RelPermalink }}">Read more...</a>
+        <a class="card-readmore" href="{{ .RelPermalink }}">Read more...</a>
     {{ end }}
 </article>
