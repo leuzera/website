@@ -1,6 +1,6 @@
 {{ $timeToRead := math.Round (div .WordCount 200.0) }}
 <article class="post-card">
-    <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <h2 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <ul class="subline">
         <li>{{ .Date.Format "Jan 02, 2006" }}</li>
         <li>{{ .WordCount }}{{ if le .WordCount 1}} word{{ else }} words{{ end }}</li>
