@@ -73,6 +73,15 @@ blockquote {
     text-decoration: none;
 }
 /************************************************************/
+
+.post-header {
+    text-align: left;
+}
+
+.post-header > h1 {
+    margin-bottom: 7px;
+}
+/************************************************************/
 .subline, .pagination {
     list-style: none;
     color: #757575;
