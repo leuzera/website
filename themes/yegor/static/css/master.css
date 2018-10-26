@@ -75,7 +75,7 @@ blockquote {
 /************************************************************/
 .subline, .pagination {
     list-style: none;
-    color: gray;
+    color: #757575;
     padding: 0;
     margin-top: 0;
 }
