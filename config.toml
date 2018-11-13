@@ -1,7 +1,7 @@
-title = "My Personal Site"
-baseURL = "http://leuzera.github.io/"
+title = "Braille Écran"
+baseURL = "http://brailleecran.inf.ufg.br/"
 languageCode = "en-us"
-theme = "yegor"
+theme = "now-ui"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -16,11 +16,14 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  facebook = ""
-  twitter = "https://twitter.com/theleuzera"
-  instagram = "https://instagram.com/leuzera___"
-  youtube = ""
-  github = "https://github.com/leuzera"
-  gitlab = ""
-  linkedin = "https://www.linkedin.com/in/leuzera/"
-  skype = "leonardo.fleury"
+  logo = "images/brailleecran-logo-branco.png"
+
+  [social]
+    facebook = ""
+    twitter = "https://twitter.com/theleuzera"
+    instagram = "https://instagram.com/leuzera___"
+    youtube = ""
+    github = "https://github.com/leuzera"
+    gitlab = ""
+    linkedin = "https://www.linkedin.com/in/leuzera/"
+    skype = "leonardo.fleury"

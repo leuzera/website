@@ -1,8 +1,10 @@
 ---
-title: "Leonardo Fleury"
-featured_image: "/images/markus-spiske-507983-unsplash.jpg"
-description: "My site."
+title: "Braille Écran"
+date: 2018-11-08T16:27:48-02:00
+draft: false
+subtitle: "Touch the digital world"
+
+header_image: "images/rawpixel.jpg"
+header_small: false
+header_filter: true
 ---
-Hello there! And welcome to my site.
-I hope that you enjoy your ride!
-Thanks very much.
