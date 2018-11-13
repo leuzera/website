@@ -4,4 +4,4 @@
 	
 [submodule "themes/now-ui"]
 	path = themes/now-ui
-	url = git@github.com:leuzera/now-ui-gohugo-theme.git
+	url = https://github.com/leuzera/now-ui-gohugo-theme.git
