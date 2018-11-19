@@ -1,7 +1,0 @@
-{{ define "main" }}
-    {{ range .Paginator.Pages}}
-        {{ partial "post_card.html" . }}
-    {{ end }}
-    
-    {{ template "_internal/pagination.html" . }}
-{{ end }}
