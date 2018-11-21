@@ -17,10 +17,13 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
+    languageName = "English"
     weight = 1
   [languages.pt]
+    languageName = "Português"
     weight = 2
   [languages.es]
+    languageName = "Español"
     weight = 3
 
 [params]
