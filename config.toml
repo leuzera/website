@@ -38,3 +38,28 @@ enableRobotsTXT = true
     gitlab = ""
     linkedin = "https://www.linkedin.com/in/leuzera/"
     skype = "leonardo.fleury"
+
+[[menu.main]]
+  name = "Home"
+  url = "#header"
+  weight = 1
+
+[[menu.main]]
+  name = "About Us"
+  url = "#text"
+  weight = 2
+
+[[menu.main]]
+  name = "Team"
+  url = "#team"
+  weight = 3
+
+[[menu.main]]
+  name = "Posts"
+  url = "#last-posts"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact-us"
+  weight = 5
