@@ -6,7 +6,7 @@ theme = "now-ui"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 2 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -22,9 +22,31 @@ enableRobotsTXT = true
   [languages.pt]
     languageName = "Português"
     weight = 2
-  [languages.es]
-    languageName = "Español"
-    weight = 3
+    [languages.pt.menu]
+      [[languages.pt.menu.landing_page]]
+        name = "Inicio"
+        url = "#header"
+        weight = 1
+
+      [[languages.pt.menu.landing_page]]
+        name = "Sobre"
+        url = "#text"
+        weight = 2
+
+      [[languages.pt.menu.landing_page]]
+        name = "Time"
+        url = "#team"
+        weight = 3
+
+      [[languages.pt.menu.landing_page]]
+        name = "Noticias"
+        url = "#last-posts"
+        weight = 4
+
+      [[languages.pt.menu.landing_page]]
+        name = "Contato"
+        url = "#contact-us"
+        weight = 5
 
 [params]
   logo = "images/brailleecran-logo-branco.png"
@@ -39,27 +61,28 @@ enableRobotsTXT = true
     linkedin = "https://www.linkedin.com/in/leuzera/"
     skype = "leonardo.fleury"
 
-[[menu.main]]
-  name = "Home"
-  url = "#header"
-  weight = 1
+[menu]
+  [[menu.landing_page]]
+    name = "Home"
+    url = "#header"
+    weight = 1
 
-[[menu.main]]
-  name = "About Us"
-  url = "#text"
-  weight = 2
+  [[menu.landing_page]]
+    name = "About Us"
+    url = "#text"
+    weight = 2
 
-[[menu.main]]
-  name = "Team"
-  url = "#team"
-  weight = 3
+  [[menu.landing_page]]
+    name = "Team"
+    url = "#team"
+    weight = 3
 
-[[menu.main]]
-  name = "Posts"
-  url = "#last-posts"
-  weight = 4
+  [[menu.landing_page]]
+    name = "Posts"
+    url = "#last-posts"
+    weight = 4
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact-us"
-  weight = 5
+  [[menu.landing_page]]
+    name = "Contact"
+    url = "#contact-us"
+    weight = 5
