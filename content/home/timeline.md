@@ -10,32 +10,35 @@ title: "Timeline"
 # Order that this section will appear in.
 weight: 15
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-experience:
-  title : "CEO"
-  company : "GenCoin"
-  company_url : ""
-  location : "California"
-  date_start : "2017-01-01"
-  date_end : ""
-  description : """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+events:
+  - title: Fase 1
+    image:
+      path: img/bg1.jpg
+      alt:
+    project_url:
+    date: 2016-01-10
+    description: |
+      Responsibilities include:
 
-experience:
-  title : "Professor"
-  company : "University X"
-  company_url : ""
-  location : "California"
-  date_start : "2016-01-01"
-  date_end : "2016-12-31"
-  description : """Taught electronic engineering and researched semiconductor physics."""
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: Fase 2
+    image:
+      path: img/bg3.jpg
+      alt:
+    project_url:
+    date: 2017-08-10
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id accumsan mi. Aenean sed erat in risus vulputate posuere. Duis vehicula mauris libero, nec sollicitudin lorem vulputate vitae. Ut tristique nisi mollis, convallis turpis quis, placerat nisl. Cras vulputate mauris sed ipsum tempus, in molestie ipsum feugiat. Aliquam placerat libero neque, eget ultricies urna volutpat vitae. Donec ultricies, diam id iaculis pretium, lacus mauris dictum turpis, id bibendum felis arcu in turpis.
+
+  - title: Fase 3
+    image:
+      path: img/bg4.jpg
+      alt:
+    project_url:
+    date: 2018-02-10
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id accumsan mi. Aenean sed erat in risus vulputate posuere. Duis vehicula mauris libero, nec sollicitudin lorem vulputate vitae. Ut tristique nisi mollis, convallis turpis quis, placerat nisl. Cras vulputate mauris sed ipsum tempus, in molestie ipsum feugiat. Aliquam placerat libero neque, eget ultricies urna volutpat vitae. Donec ultricies, diam id iaculis pretium, lacus mauris dictum turpis, id bibendum felis arcu in turpis.
 ---
