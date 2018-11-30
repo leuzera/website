@@ -1,11 +1,11 @@
 ---
 # Possible Widgets:
 #   team, contact, images, last-post, text
-widget: "timeline"
+widget: timeline
 active: true
 
-title: "Timeline"
-#subtitle: ""
+title:
+subtitle:
 
 # Order that this section will appear in.
 weight: 15
@@ -18,11 +18,8 @@ events:
     project_url:
     date: 2016-01-10
     description: |
-      Responsibilities include:
+      Neste primeiro estágio, desenvolvemos um método de entrada baseado em Braille, onde os usuários podem sentir a tela a partir de uma fina película com botões texturizados e uma célula Braille impressos em 3D. Esta película oferece ao usuário uma sensação tátil enquanto um aplicativo reconhece a interação do usuário e a traduz para texto. Nosso principal objetivo é prover um método de entrada que dá confiança ao usuário, fornecendo uma resposta tátil, sonora e vibratória.
 
-        * Analysing
-        * Modelling
-        * Deploying
 
   - title: Fase 2
     image:
@@ -31,14 +28,5 @@ events:
     project_url:
     date: 2017-08-10
     description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id accumsan mi. Aenean sed erat in risus vulputate posuere. Duis vehicula mauris libero, nec sollicitudin lorem vulputate vitae. Ut tristique nisi mollis, convallis turpis quis, placerat nisl. Cras vulputate mauris sed ipsum tempus, in molestie ipsum feugiat. Aliquam placerat libero neque, eget ultricies urna volutpat vitae. Donec ultricies, diam id iaculis pretium, lacus mauris dictum turpis, id bibendum felis arcu in turpis.
-
-  - title: Fase 3
-    image:
-      path: img/bg4.jpg
-      alt:
-    project_url:
-    date: 2018-02-10
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id accumsan mi. Aenean sed erat in risus vulputate posuere. Duis vehicula mauris libero, nec sollicitudin lorem vulputate vitae. Ut tristique nisi mollis, convallis turpis quis, placerat nisl. Cras vulputate mauris sed ipsum tempus, in molestie ipsum feugiat. Aliquam placerat libero neque, eget ultricies urna volutpat vitae. Donec ultricies, diam id iaculis pretium, lacus mauris dictum turpis, id bibendum felis arcu in turpis.
+      No estágio atual, estamos trabalhando em um método de Ensino Braille. Nosso propósito é criar um meio bastante intuitivo e divertido para motivar pessoas cegas a aprender Braille. Também buscamos explorar o interesse em ferramentas de comunicação instantânea, como WhatsApp, Telegram, etc., e aproveitar essa oportunidade para incentivar os usuários a utilizarem o Sistema Braille nessas ferramentas.
 ---

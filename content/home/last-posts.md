@@ -4,14 +4,14 @@
 #   contact
 #   images
 #   siginup
-widget: "last-post"
+widget: last-post
 active: true
 date: 2018-11-21T15:01:20-02:00
 
-title: "Last Posts"
-subtitle: ""
+title: Últimas Notícias
+subtitle:
 
-type: "list"
+type: list
 
 # Order that this section will appear in.
 weight: 100
