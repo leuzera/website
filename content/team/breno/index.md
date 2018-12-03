@@ -1,17 +1,17 @@
 ---
-name: Breno Gomes
+name: Breno de Melo Gomes
 role: Desenvolvedor iOS
 
 social:
     - homepage:
-    - email:
+    - email: brenodmelogomes@outlook.com
     - facebook:
-    - github:
+    - github: https://github.com/gomesbreno
     - twitter:
     - youtube:
     - tumblr:
     - steam:
     - skype:
-    - linkedin:
+    - linkedin: https://www.linkedin.com/in/gomesbreno/
     - bitbucket:
 ---
