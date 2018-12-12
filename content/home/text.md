@@ -6,7 +6,7 @@ date: 2018-11-09T11:13:52-02:00
 title:
 subtitle:
 
-weight: 10
+weight: 1
 ---
 
 No mundo todo, existem cerca de 284 milhões de deficientes visuais e cerca de 39 milhões são cegas. Para estas pessoas, a tecnologia pode expandir sua autonomia pessoal e de comunicação, minimizando ou compensando as restrições relacionadas a falta de visão.

@@ -8,7 +8,7 @@ title:
 subtitle:
 
 # Order that this section will appear in.
-weight: 15
+weight: 2
 
 events:
   - title: Fase 1

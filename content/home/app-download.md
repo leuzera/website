@@ -43,9 +43,13 @@ subtitle:
 #       * and even Markdown
 
 #app-downloads
-play_store_link: https://play.google.com/store/apps/details?id=com.ea.game.starwarscapital_row
-app_store_link: https://play.google.com/store/apps/details?id=com.ea.game.starwarscapital_row
+image:
+    path: img/bg1.jpg
+    alt: asdsa
+play_store_link: '#'
+app_store_link: '#'
 
 # Order that this section will appear in.
-weight: 100
+weight: 3
 ---
+Em breve, nas lojas Google Play e App Store

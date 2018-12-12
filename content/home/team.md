@@ -8,5 +8,5 @@ subtitle: Conheça nosso time
 
 folder: team
 
-weight: 20
+weight: 4
 ---

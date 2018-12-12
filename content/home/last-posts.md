@@ -14,5 +14,5 @@ subtitle:
 type: list
 
 # Order that this section will appear in.
-weight: 100
+weight: 5
 ---

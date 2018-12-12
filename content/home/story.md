@@ -5,7 +5,7 @@ date: 2018-11-09T11:13:52-02:00
 
 title: Fale conosco
 
-weight: 15
+weight: 1
 
 images: 
     - images/gus-moretta.jpg
