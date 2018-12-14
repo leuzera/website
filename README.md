@@ -38,7 +38,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Autores
 
-* **[Leonardo M Fleury](@leuzera)** - *Trabalho Inicial*
+* **[Leonardo M Fleury](https://github.com/leuzera)** - *Trabalho Inicial*
 
 ## Licensa
 
