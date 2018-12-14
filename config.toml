@@ -1,6 +1,6 @@
 title = "Braille Écran"
-#baseURL = "https://amazing-clarke-936762.netlify.com/"
-baseURL = "https://fabrizziosoares.me/brailleecran"
+baseURL = "https://amazing-clarke-936762.netlify.com/"
+#baseURL = "https://fabrizziosoares.me/brailleecran"
 languageCode = "pt"
 theme = "now-ui"
 
