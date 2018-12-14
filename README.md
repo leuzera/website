@@ -28,7 +28,15 @@ Você pode visitar o site no endereço [localhost:1313](http://localhost:1313). 
 
 ## Implantando
 
-Add additional notes about how to deploy this on a live system
+Estas instruções são para implantar o site no [Netlify](https://www.netlify.com/).
+
+Assumimos que você já possui uma conta criada e já criou um site. Caso ainda não o tenha feito, siga esse [tutorial](https://gohugo.io/hosting-and-deployment/hosting-on-netlify) encontrado no site do Hugo.
+
+Como o Netlify não possui suporte para a versão Extended do Hugo, é preciso compilar o site localmente e atualizar os arquivos da pasta `resources`. Para isso execute o comando abaixo.
+
+```bash
+$ hugo build
+```
 
 ## Construido com
 
