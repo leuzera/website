@@ -44,8 +44,8 @@ subtitle:
 
 #app-downloads
 image:
-    path: img/bg1.jpg
-    alt: asdsa
+    path: images/smartphone.png
+    alt: Telefone com o BrailleÉcran aberto.
 play_store_link: '#'
 app_store_link: '#'
 
