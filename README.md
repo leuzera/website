@@ -34,7 +34,6 @@ Add additional notes about how to deploy this on a live system
 
 * [Hugo](https://gohugo.io/) - Gerador de site estático
 * [Now UI kit](https://www.creative-tim.com/product/now-ui-kit) - Tema Bootstrap 4
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Autores
 
