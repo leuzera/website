@@ -3,6 +3,7 @@ name: Thyago Peres Carvalho
 role: Pesquisador Assistente de Desenvolvimento
 
 social:
+    - homepage: https://thyagopcarvalho.github.io
     - email: thyagopcarvalho@gmail.com
     - github: https://github.com/thyagopcarvalho
     - lattes: http://lattes.cnpq.br/7816616521514395
