@@ -1,6 +1,7 @@
 ---
 name: Mateus Machado Luna
 role: Coordenador do Projeto
+order: 2
 
 social:
     - homepage: https://wysinecowyg.wordpress.com

@@ -1,6 +1,7 @@
 ---
 name: Breno de Melo Gomes
 role: Desenvolvedor iOS
+order: 3
 
 social:
     - homepage:

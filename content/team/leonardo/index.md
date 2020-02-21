@@ -1,6 +1,7 @@
 ---
 name: Leonardo Moraes Fleury
-role: Desenvolvedor Web
+role: Desenvolvedor Web e Android
+order: 3
 
 social:
     - homepage:

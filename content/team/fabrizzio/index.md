@@ -1,6 +1,7 @@
 ---
 name: Fabrizzio Soares
 role: Professor Pesquisador
+order: 1
 
 social:
     - homepage: https://fabrizziosoares.me/
