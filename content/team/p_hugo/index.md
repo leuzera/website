@@ -1,6 +1,6 @@
 ---
 name: Hugo Nascimento
-role: Professor Pesquisador
+role: Vice-coordenador
 order: 1
 
 social:

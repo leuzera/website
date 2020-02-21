@@ -1,6 +1,6 @@
 ---
-name: Neide
-role:
+name: Maria Neide Filha
+role: Pesquisadora
 order: 3
 
 social:

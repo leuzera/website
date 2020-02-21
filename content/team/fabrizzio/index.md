@@ -1,6 +1,6 @@
 ---
 name: Fabrizzio Soares
-role: Professor Pesquisador
+role: Coordenador
 order: 1
 
 social:

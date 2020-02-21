@@ -1,6 +1,6 @@
 ---
 name: Mateus Machado Luna
-role: Coordenador do Projeto
+role: Pesquisador
 order: 2
 
 social:

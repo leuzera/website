@@ -1,6 +1,6 @@
 ---
-name: Bhrenda
-role:
+name: Bhrenda Diniz
+role: Pesquisadora
 order: 3
 
 social:
