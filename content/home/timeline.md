@@ -14,7 +14,7 @@ events:
   - title: Fase 1
     image:
       path: images/device.png
-      alt:  Celular com a pelicula desenvolvida e o teclado BrailleÉcran aberto.
+      alt:  Celular com a película desenvolvida e o teclado BrailleÉcran aberto.
     project_url:
     date: 2016-01-10
     description: |
