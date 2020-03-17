@@ -2,7 +2,7 @@
 # Possible Widgets:
 #   team, contact, images, last-post, text
 widget: timeline
-active: true
+active: false
 
 title:
 subtitle:
