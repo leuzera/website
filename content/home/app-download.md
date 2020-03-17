@@ -46,10 +46,10 @@ subtitle:
 image:
     path: images/smartphone.png
     alt: Telefone com o BrailleÉcran aberto.
-play_store_link: '#'
+play_store_link: 'https://play.google.com/store/apps/details?id=com.brailleecran.Keyboard'
 app_store_link: '#'
 
 # Order that this section will appear in.
 weight: 3
 ---
-Em breve, nas lojas Google Play e App Store
+Baixe agora no Google Play. Em breve na App Store
