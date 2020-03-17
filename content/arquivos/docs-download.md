@@ -3,9 +3,10 @@ widget: docs-download
 active: true
 
 docs:
-  - title: Projeto pedagógico
-    text: Descrição pequena e sucinta a respeito do documento.
+  - title: Material Didático
     versions:
-      pdf: docs/proposta_pedagogica.pdf
-      epub: docs/proposta_pedagogica.epub
+      url: https://educapes.capes.gov.br/handle/capes/564428
+  - title: Modelos de Películas/Capas para Impressão 3D
+    versions:
+      url: https://educapes.capes.gov.br/handle/capes/564354
 ---
